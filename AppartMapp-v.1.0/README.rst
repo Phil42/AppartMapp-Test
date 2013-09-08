@@ -1,3 +1,12 @@
+====
+INFO
+====
+
+Bitte in dem Ordner nur noch Fixes machen, ansonsten in dem Ordner: "AppartMapp-v.1.1" weiter coden.
+
+P.S. soblad wir wieder einen neuen Projektstand erreichen mache ich einen neuen Ordner !
+
+
 ==========
 AppartMapp
 ==========
